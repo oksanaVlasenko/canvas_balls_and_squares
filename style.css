@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('styles/bg_img.jpg');
+}
+
+#canvas{
+    margin: 5% 20% 0 20%;
+    border: 6px solid #000000;
+    border-radius: 15px;
+    background: #ffffff;
+}
